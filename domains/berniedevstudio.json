@@ -1,0 +1,12 @@
+{
+  "description": "Link website for BernieDevStudio",
+  "repo": "https://github.com/BernieDevStudio",
+  "owner": {
+    "username": "BernieDevStudio",
+    "email": "info@berniestory.org"
+  },
+  "record": {
+    "URL": "https://berniedevstudio.is-a.dev/"
+  },
+  "proxied": false 
+}
